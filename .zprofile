@@ -1,1 +1,0 @@
-/Users/josh/.zprezto/runcoms/zprofile
