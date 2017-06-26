@@ -1,0 +1,1 @@
+/Users/josh/.zprezto/runcoms/zshenv
