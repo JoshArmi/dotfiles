@@ -1,1 +1,1 @@
-/Users/josh/.zprezto/runcoms/zshrc
+/Users/josh/Google Drive/Mackup/.zshrc
